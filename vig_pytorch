@@ -1,0 +1,21 @@
+# Vision GNN: An Image is Worth Graph of Nodes
+
+This repository contains the official implementation of **Vision GNN** from the NeurIPS 2022 paper:
+
+> **Vision GNN: An Image is Worth Graph of Nodes**  
+
+## Introduction
+Vision GNN proposes a novel graph-based architecture for computer vision tasks, which models images as graphs of nodes and processes them through graph neural networks. This approach bridges the gap between CNNs and Transformers by leveraging the strengths of both paradigms.
+
+## Citation
+If you find our work useful in your research, please consider citing:
+
+```bibtex
+@article{han2022vision,
+  title={Vision GNN: An Image is Worth Graph of Nodes},
+  author={Han, Kai and Wang, Yunhe and Guo, Jianyuan and Tang, Yehui and Wu, Enhua},
+  journal={Advances in Neural Information Processing Systems},
+  volume={35},
+  pages={8291--8303},
+  year={2022}
+}
