@@ -1,0 +1,11 @@
+This repository contains the official implementation of ViHGNN (Vision Hypergraph Neural Networks), a novel framework that models images as hypergraphs of nodes for advanced computer vision tasks.
+Citation
+If you find our work useful in your research, please cite the following paper:
+bibtex
+@inproceedings{han2023vision,
+  title={Vision hgnn: An image is more than a graph of nodes},
+  author={Han, Yan and Wang, Peihao and Kundu, Souvik and Ding, Ying and Wang, Zhangyang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={19878--19888},
+  year={2023}
+}
